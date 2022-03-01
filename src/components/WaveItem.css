@@ -1,0 +1,26 @@
+.waveDetails {
+  background-color: oldlace;
+  color: black;
+  border-radius: 5px;
+  margin-top: 16px;
+  padding: 8px
+}
+
+.time {
+  float: right;
+  font-size: 75%;
+}
+
+.waveMsg {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 4px 0;
+}
+
+.walletIcon {
+  vertical-align: text-bottom;
+}
+
+.wavePrimary {
+  margin-bottom: 8px;
+}

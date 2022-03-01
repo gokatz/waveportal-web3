@@ -1,0 +1,6 @@
+.profilePic {
+  width: 50%;
+  max-width: 200px;
+  display: inline;
+  border-radius: 100%;
+}

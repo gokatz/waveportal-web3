@@ -1,0 +1,15 @@
+.waveError {
+  color: red;
+}
+
+.waveResponse {
+  font-size: 14px;
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.waveWon {
+  color: green;
+  font-weight: bold;
+}
